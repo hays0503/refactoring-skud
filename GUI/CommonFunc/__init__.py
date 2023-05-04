@@ -1,0 +1,1 @@
+import CommonFunc.info_color
